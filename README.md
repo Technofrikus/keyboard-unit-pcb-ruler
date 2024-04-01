@@ -15,6 +15,8 @@ EN:
 ![backrender](https://github.com/Technofrikus/keyboard-unit-pcb-ruler/blob/master/photos/render_back.png)
 
 ## Reference
+This ruler uses MX-Spacing (19.05mm).
+
 Thanks to [CASE-Association](https://github.com/CASE-Association/pcb_ruler?tab=readme-ov-file) for the footprint-idea and source
 
 ## Status
