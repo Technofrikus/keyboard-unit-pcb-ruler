@@ -1,0 +1,9 @@
+use latest kikit (bug with aux origin):
+sudo pip install git+https://github.com/yaqwsx/KiKit@master
+
+Generate panel from PCB:
+kikit panelize -p panel.json ../keyboard\ unit\ pcb\ ruler/.kicad_pcb ./panel/ruler.kicad_pcb
+
+
+Generate production files:
+kikit fab jlcpcb --no-drc --assembly --schematic ../KeyboardUnitRuler.kicad_sch ./panel/KeyboardUnitRuler-panel.kicad_pcb ./prod

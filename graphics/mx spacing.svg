@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40.0mm"
+   height="20.0mm"
+   viewBox="0 0 40.0 20.0"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mx spacing.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="7.5252799"
+     inkscape:cx="83.252717"
+     inkscape:cy="49.167606"
+     inkscape:window-width="1984"
+     inkscape:window-height="1211"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="87.227744"
+       y="13.166452"
+       width="47.728388"
+       height="47.728388"
+       id="rect6" />
+    <marker
+       style="overflow:visible"
+       id="Triangle-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-9" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="40.0"
+     height="20.0"
+     style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+     id="rect4" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0512997;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle-9-9)"
+     d="m 36.019948,12.734451 3.154418,-0.824656"
+     id="path21-0-5"
+     sodipodi:nodetypes="cc" />
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g2">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0716316;stroke-linecap:round;stroke-dasharray:0.0716316, 0.214895;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3"
+       width="13.92837"
+       height="13.928369"
+       x="3.453567"
+       y="3.1384528" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0717131;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5"
+       width="17.928288"
+       height="17.928288"
+       x="1.4568145"
+       y="1.1663139" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0758964;stroke-linecap:round;stroke-dasharray:0.45537838,0.45537838;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5-3"
+       width="18.974104"
+       height="18.974104"
+       x="0.94485307"
+       y="0.5816921" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0716316;stroke-linecap:round;stroke-dasharray:0.0716316, 0.214895;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3-8"
+       width="13.92837"
+       height="13.928369"
+       x="22.426985"
+       y="3.1369202" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0717131;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5-5"
+       width="17.928288"
+       height="17.928288"
+       x="20.430231"
+       y="1.1647816" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0758964;stroke-linecap:round;stroke-dasharray:0.45537838,0.45537838;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5-3-6"
+       width="18.974104"
+       height="18.974104"
+       x="19.91827"
+       y="0.58015966" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5"
+       style="font-weight:300;font-size:25.3333px;font-family:Boston;-inkscape-font-specification:'Boston, Light';letter-spacing:-4px;white-space:pre;shape-inside:url(#rect6);display:inline;fill:none;stroke:#000000;stroke-width:0.272126;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:2px;line-height:1.3;font-family:Boston;-inkscape-font-specification:'Boston, Light';letter-spacing:0px;fill:#000013;fill-opacity:1;stroke:#000000;stroke-width:0.072;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="3.7779105"
+       y="5.3865614"
+       id="text7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2px;line-height:1.3;font-family:Boston;-inkscape-font-specification:'Boston, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000013;fill-opacity:1;stroke-width:0.072;stroke-dasharray:none;stroke-dashoffset:0"
+         x="3.7779105"
+         y="5.3865614"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan16"><tspan
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           id="tspan15"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2px;line-height:1.3;font-family:Boston;-inkscape-font-specification:'Boston, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000013;fill-opacity:1;stroke-width:0.072;stroke-dasharray:none;stroke-dashoffset:0">Switch spacing                    19.05mm</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2px;line-height:1.3;font-family:Boston;-inkscape-font-specification:'Boston, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000013;fill-opacity:1;stroke-width:0.072;stroke-dasharray:none;stroke-dashoffset:0"
+         x="3.7779105"
+         y="7.9865613"
+         id="tspan9">Keycap size                          18x18mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2px;line-height:1.3;font-family:Boston;-inkscape-font-specification:'Boston, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000013;fill-opacity:1;stroke-width:0.072;stroke-dasharray:none;stroke-dashoffset:0"
+         x="3.7779105"
+         y="10.586561"
+         id="tspan19">Plate switch hole                 14x14mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2px;line-height:1.3;font-family:Boston;-inkscape-font-specification:'Boston, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000013;fill-opacity:1;stroke-width:0.072;stroke-dasharray:none;stroke-dashoffset:0"
+         x="3.7779105"
+         y="13.186562"
+         id="tspan20">Case inside               19.05+0.525mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2px;line-height:1.3;font-family:Boston;-inkscape-font-specification:'Boston, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000013;fill-opacity:1;stroke-width:0.072;stroke-dasharray:none;stroke-dashoffset:0"
+         x="3.7779105"
+         y="15.786561"
+         id="tspan21">Between keycaps                  1.05mm  </tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0955597;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect20"
+       width="39.05444"
+       height="20.00444"
+       x="0.43369111"
+       y="0.046939179" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0512997;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 27.141766,4.803225 20.240634,2.9589507"
+       id="path21"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0512997;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle-9)"
+       d="M 27.211961,7.3234354 20.7679,6.2526649"
+       id="path21-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0512997;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle-9-8)"
+       d="M 27.773125,10.076174 22.700275,9.5327928"
+       id="path21-0-6"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
