@@ -25,4 +25,4 @@ Thanks to [CASE-Association](https://github.com/CASE-Association/pcb_ruler?tab=r
 
 ## Status
 
-Ordered for Mechanicon 2024
+Gave 50pcs away at Mechanicon 2024, they "work" great. And are acutally useful.
