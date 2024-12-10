@@ -73,6 +73,7 @@
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -222,7 +223,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "keyboard unit ruler.kicad_pro",
+    "filename": "KeyboardUnitRuler.kicad_pro",
     "version": 1
   },
   "net_settings": {
