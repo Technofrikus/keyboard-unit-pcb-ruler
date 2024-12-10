@@ -26,3 +26,7 @@ Thanks to [CASE-Association](https://github.com/CASE-Association/pcb_ruler?tab=r
 ## Status
 
 Gave 50pcs away at Mechanicon 2024, they "work" great. And are acutally useful.
+
+## History
+v2 changed the position of the legends for better readability
+v1 inital relase
